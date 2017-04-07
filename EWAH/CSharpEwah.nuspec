@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>CSharpEwah</id>
+    <version>$id$</version>
+    <title>Compressed bitmaps in C#</title>
+    <description>This is a compressed variant of the standard bitarray class. It uses a 64-bit RLE-like compression scheme. It can be used to implement bitmap indexes.</description>
+    <authors>Kemal Erdogan, Daniel Lemire, Ciaran Jessup, Michael Rice, Matt Warren</authors>
+  </metadata>
+</package>
